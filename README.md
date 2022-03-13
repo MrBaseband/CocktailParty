@@ -8,6 +8,6 @@ The basic components:
 Import/Export .wav files
 Math block that estimates the two signals, based on correlation (may end up using SVD)
 
-<img src="./basicScheme.png" alt="Problem Statement" style="height: 250px; width:250px;"/>
+<img src="./basicScheme.png" alt="Problem Statement"/>
 
 //added by akash
